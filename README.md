@@ -48,8 +48,8 @@ const pedrorcruzz = {
 <center>
   <table>
     <tr>
-        <td> <img height="160rem" width = "500rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pedrorcruzz&show_icons=true&theme=dark&light&bg_color=0d1117&border_radius=15&border_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github"/></td>
-        <td> <img height="160rem" width = "500rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorcruzz&locale_en&layout=compact&langs_count=20&theme=dark&light&bg_color=0d1117&border_radius=15&border_color=0d1117"/></td>
+        <td> <img height="180rem" width = "500rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pedrorcruzz&show_icons=true&theme=dark&light&bg_color=0d1117&border_radius=15&border_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github"/></td>
+        <td> <img height="180rem" width = "500rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorcruzz&locale_en&layout=compact&langs_count=20&theme=dark&light&bg_color=0d1117&border_radius=15&border_color=0d1117"/></td>
     </tr>
   </table>
 </center>  
