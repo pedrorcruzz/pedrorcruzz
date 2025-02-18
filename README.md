@@ -22,7 +22,8 @@
      
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrorcruzz/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:phrosa.dev@gmail.com)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/pedrorcruzz)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/pedrorcruzz)
+[![Reddit](https://img.shields.io/badge/Reddit-red?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/Remarkable-Yam-7983/)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29283522/pedro-rosa)
 [![CV-View](https://img.shields.io/badge/CV-View-black?style=flat&logo=adobeacrobatreader&logoColor=white)](./cv-PedroRosa.pdf)
 [![CV-Download](https://img.shields.io/badge/CV-Download-black?style=flat&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/pedrorcruzz/pedrorcruzz/main/cv-PedroRosa.pdf)
