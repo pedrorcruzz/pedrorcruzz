@@ -20,7 +20,7 @@
  <div align="left">
  <div display= inline-block>
      
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrorcruzz/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/pedrorcruzz/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:phrosa.dev@gmail.com)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/pedrorcruzz)
 [![Reddit](https://img.shields.io/badge/Reddit-red?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/Remarkable-Yam-7983/)
