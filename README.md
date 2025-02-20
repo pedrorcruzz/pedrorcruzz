@@ -68,7 +68,7 @@ const pedrorcruzz = {
   <a href="https://skillicons.dev">
     <img 
       src="https://skillicons.dev/icons?i=typescript,react,tailwindcss,nodejs,nextjs,nestjs,php,laravel,python,django,flask,postgresql,mongodb,docker,neovim&perline=16" 
-      width="650" 
+      width="700" 
       height="auto" />
   </a>
   <br><br>
