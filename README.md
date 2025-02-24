@@ -67,7 +67,7 @@ const pedrorcruzz = {
   <h3> 📜 Development Stack</h3>
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=typescript,react,tailwindcss,nodejs,nextjs,nestjs,php,laravel,python,django,flask,golang,postgresql,mysql,mongodb,docker,neovim&perline=19" 
+      src="https://skillicons.dev/icons?i=typescript,react,tailwindcss,nodejs,nextjs,nestjs,php,laravel,python,django,flask,postgresql,mysql,mongodb,docker,neovim&perline=19" 
       width="720" 
       height="auto" />
   </a>
