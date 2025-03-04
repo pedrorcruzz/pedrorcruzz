@@ -45,12 +45,6 @@ const pedrorcruzz = {
   </table>
 </center>  
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrorcruzz&radius=16&theme=high-contrast&area=true&order=5&custom_title=Pedro%20Rosa's%20Contribution%20Graph&bg_color=0d1117&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
 <!--
  <hr>
   <p align="center">
