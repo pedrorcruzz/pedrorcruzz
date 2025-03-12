@@ -24,7 +24,7 @@
 
 
 
-
+<!--
 ```typescript
 const pedrorcruzz = {
   developer: [Web Developer | AI Learner | Mobile Developer],
@@ -32,6 +32,26 @@ const pedrorcruzz = {
   contact: "You can reach me at" phrosa.dev@gmail.com",
   quote: "As the song goes," "Im only human after all"
 };
+```-->
+
+```golang
+type Developer struct {
+	Name       string
+	Roles      []string
+	Education  string
+	Contact    string
+	Quote      string
+}
+
+func main() {
+	pedrorcruzz := Developer{
+		Name:      "pedrorcruzz",
+		Roles:     []string{"Web Developer", "AI Learner", "Mobile Developer"},
+		Education: "Graduating in Information Systems, 5th out of 8 semesters",
+		Contact:   "You can reach me at phrosa.dev@gmail.com",
+		Quote:     "As the song goes, I'm only human after all",
+	}
+}
 ```
 
 
