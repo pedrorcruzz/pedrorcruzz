@@ -3,6 +3,7 @@
   <p align="center"> <img  width ="130rem"src="https://komarev.com/ghpvc/?username=pedrorosa-dev&color=lightgrey&style=flat" alt="Profile views" /> </p>
   -->
 
+
 <h1 align="center">
   Hi  
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" 
@@ -10,10 +11,10 @@
   &nbsp;&nbsp;
   <img width="100rem" src="https://komarev.com/ghpvc/?username=pedrorosa-dev&color=111111&style=flat-square" alt="Profile views" />
 </h1>
-
 <br>
 
-
+  **`Full Stack Developer`**
+  
 
 
 
