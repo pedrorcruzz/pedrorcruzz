@@ -29,6 +29,11 @@
 const pedrorcruzz = {
   developer: [Web Developer | AI Learner | Mobile Developer],
   education: [Graduating in Information Systems, "5th out of 8 semesters"],
+  work: {
+    active: true,
+    position: "Full Stack Developer",
+    company: "Seven Sistemas de Automações"
+  }
   contact: "You can reach me at" phrosa.dev@gmail.com",
   quote: "As the song goes," "Im only human after all"
 };
