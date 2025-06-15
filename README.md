@@ -28,7 +28,7 @@
 ```typescript
 const pedrorcruzz = {
   developer: [Web Developer | AI Learner | Mobile Developer],
-  education: [Graduating in Information Systems, "5th out of 8 semesters"],
+  education: [Graduating in Information Systems, "6th out of 8 semesters"],
   work: {
     active: true,
     position: "Full Stack Developer",
