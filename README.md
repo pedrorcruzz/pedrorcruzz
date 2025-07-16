@@ -51,28 +51,29 @@ var pedrorcruzz = Developer{
   </table>
 </center>  
 
-
+<!--
 <p align="center">
   <img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrorcruzz&theme=github_dark" />
   <img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedrorcruzz&theme=github_dark&exclude=" />
 </p>
+-->
 
 
 
-<!--
+
 <center>
   <table>
     <tr>
       <td>
-        <img height="165rem" width="800rem" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrorcruzz&theme=transparent"/>
+        <img height="165rem" width="750rem" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrorcruzz&theme=transparent"/>
       </td>
       <td>
-        <img height="165rem" width="800rem" alt="Most Commit Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedrorcruzz&theme=transparent&exclude="/>
+        <img height="165rem" width="750rem" alt="Most Commit Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedrorcruzz&theme=transparent&exclude="/>
       </td>
     </tr>
   </table>
 </center>
--->
+
 
 
 <!--
