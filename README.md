@@ -107,7 +107,7 @@ var pedrorcruzz = Developer{
   <h3> 📜 Development Stack</h3>
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=typescript,go,php,python,react,tailwindcss,nodejs,nextjs,laravel,postgresql,mongodb,docker,neovim&perline=19" 
+      src="https://skillicons.dev/icons?i=nodejs,typescript,php,python,react,laravel,go,nextjs,tailwindcss,postgresql,mongodb,docker,neovim&perline=19" 
       width="680" 
       height="auto" />
   </a>
