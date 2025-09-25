@@ -29,7 +29,7 @@
 
 ```go
 var pedrorcruzz = Developer{
-	Roles: []string{"Web Developer", "AI Learner", "Mobile Developer"},
+	Roles: []string{"Web Developer", "Automation Developer", "Mobile Developer"},
 	Education: []string{"Graduating in Information Systems", "6th out of 8 semesters"},
 	Contact: "You can reach me at phrosa.dev@gmail.com",
 	Quote: `As the song goes, "I'm only human after all"`,
