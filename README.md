@@ -117,7 +117,8 @@ var pedrorcruzz = Developer{
 <h3 align="center">⚙️ Tools & Platforms</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-ef6837?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/hostinger-412991?style=for-the-badge&logo=hostinger&logoColor=white" />
 </p>
 
 
