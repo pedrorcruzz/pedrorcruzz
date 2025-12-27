@@ -15,7 +15,7 @@
 </h1>
 <br>
 
-  **`Full Stack Developer`**
+  **`Software Engineer | Full Stack`**
   
 
 
