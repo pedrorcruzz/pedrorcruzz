@@ -61,7 +61,7 @@ var pedrorcruzz = Developer{
 </center>
 -->
 
-
+<!--
 <div align="center">
   <h3> 📜 Development Stack</h3>
   <a href="https://skillicons.dev">
@@ -79,7 +79,7 @@ var pedrorcruzz = Developer{
   <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/hostinger-412991?style=for-the-badge&logo=hostinger&logoColor=white" />
 </p>
-
+-->
 
 <div align="center">
 
@@ -89,21 +89,6 @@ var pedrorcruzz = Developer{
 [![CV Download](https://custom-icon-badges.demolab.com/badge/CV_Download-000000?logo=download&logoColor=white&style=flat)](https://raw.githubusercontent.com/pedrorcruzz/pedrorcruzz/main/cv-PedroRosa.pdf)
 
 </div>
-
-<!-- <div align="center"> -->
-<!--     <a href="https://www.linkedin.com/in/pedrorcruzz/" target="_blank" style="display: inline-block; margin: 5px;"> -->
-<!--         <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"> -->
-<!--     </a> -->
-<!--     <a href="mailto:phrosa.dev@gmail.com" target="_blank" style="display: inline-block; margin: 5px;"> -->
-<!--         <img src="https://custom-icon-badges.demolab.com/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=flat" alt="Gmail"> -->
-<!--     </a> -->
-<!--     <a href="./cv-PedroRosa.pdf" target="_blank" style="display: inline-block; margin: 5px;"> -->
-<!--         <img src="https://custom-icon-badges.demolab.com/badge/CV_View-444444?logo=read&logoColor=white&style=flat" alt="CV View"> -->
-<!--     </a> -->
-<!--     <a href="https://raw.githubusercontent.com/pedrorcruzz/pedrorcruzz/main/cv-PedroRosa.pdf" download style="display: inline-block; margin: 5px;"> -->
-<!--         <img src="https://custom-icon-badges.demolab.com/badge/CV_Download-000000?logo=download&logoColor=white&style=flat" alt="CV Download"> -->
-<!--     </a> -->
-<!-- </div> -->
 
 
 
