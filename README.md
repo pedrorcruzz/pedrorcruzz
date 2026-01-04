@@ -21,6 +21,7 @@ var pedrorcruzz = Developer{
 }
 ```
 
+<!--
 <div align="center">
   <img
     height="190rem"
@@ -32,8 +33,9 @@ var pedrorcruzz = Developer{
     src="https://github-readme-stats-ten-teal-63.vercel.app/api/top-langs/?username=pedrorcruzz&layout=compact&langs_count=6&theme=dark&bg_color=0d1117&border_radius=15&border_color=0d1117"
   />
 </div>
+-->
 
-<!--
+
 <center>
   <table>
     <tr>
@@ -56,7 +58,7 @@ var pedrorcruzz = Developer{
     </tr>
   </table>
 </center>
--->
+
 
 <!--
 <div align="center">
