@@ -26,9 +26,7 @@ var pedrorcruzz = Developer{
     height="190rem"
     alt="GitHub Stats"
     src="https://github-readme-stats-ten-teal-63.vercel.app/api?username=pedrorcruzz&show_icons=true&theme=dark&bg_color=0d1117&border_radius=15&border_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github"
-  />
-
-  <img
+  /><img
     height="190rem"
     alt="Most Used Languages"
     src="https://github-readme-stats-ten-teal-63.vercel.app/api/top-langs/?username=pedrorcruzz&layout=compact&langs_count=6&theme=dark&bg_color=0d1117&border_radius=15&border_color=0d1117"
