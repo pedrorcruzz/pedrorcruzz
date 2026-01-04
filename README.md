@@ -21,7 +21,21 @@ var pedrorcruzz = Developer{
 }
 ```
 
+<div align="center">
+  <img
+    height="190rem"
+    alt="GitHub Stats"
+    src="https://github-readme-stats-ten-teal-63.vercel.app/api?username=pedrorcruzz&show_icons=true&theme=dark&bg_color=0d1117&border_radius=15&border_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github"
+  />
 
+  <img
+    height="190rem"
+    alt="Most Used Languages"
+    src="https://github-readme-stats-ten-teal-63.vercel.app/api/top-langs/?username=pedrorcruzz&layout=compact&langs_count=6&theme=dark&bg_color=0d1117&border_radius=15&border_color=0d1117"
+  />
+</div>
+
+<!--
 <center>
   <table>
     <tr>
@@ -40,22 +54,6 @@ var pedrorcruzz = Developer{
           alt="Most Used Languages"
           src="https://github-readme-stats-ten-teal-63.vercel.app/api/top-langs/?username=pedrorcruzz&layout=compact&langs_count=6&theme=dark&bg_color=0d1117&border_radius=15&border_color=0d1117"
         />
-      </td>
-    </tr>
-  </table>
-</center>
-
-
-
-<!--
-<center>
-  <table>
-    <tr>
-      <td>
-        <img height="165rem" width="750rem" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrorcruzz&theme=transparent"/>
-      </td>
-      <td>
-        <img height="165rem" width="750rem" alt="Most Commit Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedrorcruzz&theme=transparent&exclude="/>
       </td>
     </tr>
   </table>
