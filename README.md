@@ -15,7 +15,7 @@
 
 ```go
 var pedrorcruzz = Developer{
-	Roles: []string{"Web Developer", "AI Developer"},
+	Roles: []string{"Ai Developer", "AI Agents Specialist"},
 	Education: []string{"Graduating in Information Systems", "7th out of 8 semesters"},
 	Contact: "You can reach me at phrosa.dev@gmail.com",
 }
