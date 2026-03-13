@@ -35,7 +35,7 @@ var pedrorcruzz = Developer{
 </div>
 -->
 
-
+<!--
 <center>
   <table>
     <tr>
@@ -58,7 +58,7 @@ var pedrorcruzz = Developer{
     </tr>
   </table>
 </center>
-
+-->
 
 <!--
 <div align="center">
