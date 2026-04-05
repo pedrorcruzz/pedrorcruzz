@@ -38,7 +38,7 @@ var pedrorcruzz = Developer{
           height="180rem"
           width="500rem"
           alt="GitHub Stats"
-          src="https://github-readme-stats.vercel.app/api?username=pedrorcruzz&show_icons=true&theme=dark&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true&rank_icon=github"
+          src="./profile/stats.svg"
         />
       </td>
       <td>
@@ -46,7 +46,7 @@ var pedrorcruzz = Developer{
           height="180rem"
           width="500rem"
           alt="Most Used Languages"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorcruzz&langs_count=5&layout=compact&theme=dark&bg_color=0d1117&border_radius=15&border_color=0d1117"
+          src="./profile/top-langs.svg"
         />
       </td>
     </tr>
