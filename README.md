@@ -8,6 +8,15 @@
 	-->
 </h1>
 
+<div align="center">
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/pedrorcruzz/)
+[![Gmail](https://custom-icon-badges.demolab.com/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:phrosa.dev@gmail.com)
+<!--[![CV View](https://custom-icon-badges.demolab.com/badge/CV_View-444444?logo=read&logoColor=white&style=flat)](./cv-PedroRosa.pdf)
+[![CV Download](https://custom-icon-badges.demolab.com/badge/CV_Download-000000?logo=download&logoColor=white&style=flat)](https://raw.githubusercontent.com/pedrorcruzz/pedrorcruzz/main/cv-PedroRosa.pdf) -->
+
+</div>
+
 
   **`Software Engineer | Full Stack`**
   
@@ -68,14 +77,7 @@ var pedrorcruzz = Developer{
 </p>
 -->
 
-<div align="center">
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/pedrorcruzz/)
-[![Gmail](https://custom-icon-badges.demolab.com/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:phrosa.dev@gmail.com)
-<!--[![CV View](https://custom-icon-badges.demolab.com/badge/CV_View-444444?logo=read&logoColor=white&style=flat)](./cv-PedroRosa.pdf)
-[![CV Download](https://custom-icon-badges.demolab.com/badge/CV_Download-000000?logo=download&logoColor=white&style=flat)](https://raw.githubusercontent.com/pedrorcruzz/pedrorcruzz/main/cv-PedroRosa.pdf) -->
-
-</div>
 
 
 
