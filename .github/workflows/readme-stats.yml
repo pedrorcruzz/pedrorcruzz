@@ -32,7 +32,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&langs_count=5&layout=compact&theme=dark&bg_color=0d1117&border_radius=15&border_color=0d1117
+          options: username=${{ github.repository_owner }}&langs_count=5&layout=compact&theme=dark&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true
           path: profile/top-langs.svg
           token: ${{ secrets.CARDS_TOKEN }}
 
