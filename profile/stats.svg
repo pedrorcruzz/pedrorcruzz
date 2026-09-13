@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Pedro Rosa's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 28, Total Commits  : 3231, Total PRs: 468, Total Issues: 2, Contributed to (last year): 15</desc>
+        <desc id="descId">Total Stars Earned: 28, Total Commits  : 3231, Total PRs: 468, Total Issues: 2, Contributed to (last year): 14</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 102.69186226732485;
+        stroke-dashoffset: 102.62851093331419;
       }
     }
   
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >15</text>
+      >14</text>
     </g>
   </g>
     </svg>
